@@ -2,4 +2,3 @@
 - 👀 I’m interested in architecture
 - 🌱 I’m currently learning Python
 - 📫 How to reach me : fatemeh.davoudabadifarahani@gmail.com
-- 💞️ I’m looking to collaborate on ...
